@@ -1,7 +1,7 @@
 <?php 
 
 function boasVindas($nome) {
-    return $nome . ". Seja bem vindo!";
+    return 'Olá, ' . $nome . ". Seja bem vindo(a)!";
 }
 
 function media($a, $b){
